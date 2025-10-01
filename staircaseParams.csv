@@ -1,0 +1,2 @@
+﻿label,nReps,startVal,maxVal,minVal,stepSizes,stepType,nUp,nDown,nReversals
+basic_stair,10,0.75,1,0.001,"[0.2,0.1,0.05,0.02,0.01]",lin,1,3,5
